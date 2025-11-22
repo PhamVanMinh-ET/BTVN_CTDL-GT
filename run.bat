@@ -16,5 +16,5 @@ echo Bien dich thanh cong!
 echo Dang chay chuong trinh...
 echo ----------------------------------------
 
-.\run.exe
+run.exe
 pause
